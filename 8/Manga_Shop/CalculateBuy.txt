@@ -1,0 +1,9 @@
+Login: Alina
+Check:
+
+Position 0(Пылесос)  Number:5  Cost = 41000
+Position 1(Умная кружка)  Number:5  Cost = 22245
+Position 2(Умный микрофон)  Number:3  Cost = 23097
+Position 3(Аниме коврик)  Number:0  Cost = 0
+Position 4(Микроволновка)  Number:2  Cost = 15200
+Summary basket value = 101542

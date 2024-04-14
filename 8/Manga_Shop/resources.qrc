@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/6615243712dcf_1712661569_6615243712db4.png</file>
+        <file>img/cruzka.png</file>
+        <file>img/kovrik.png</file>
+        <file>img/microphone.png</file>
+        <file>img/microwave.png</file>
+        <file>img/pilesos.png</file>
+    </qresource>
+    <qresource prefix="/img1"/>
+</RCC>
